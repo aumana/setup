@@ -46,3 +46,4 @@ ln -sb dotfiles/.bashrc .
 ln -sb dotfiles/.bashrc_custom .
 ln -sf dotfiles/.emacs.d .
 
+echo "Exit the SSH session and come back for the profiles to be loaded !!!!!"
